@@ -15,7 +15,6 @@
     }
   ],
   "kmods": {
-    "mdio.ko": "",
     "bnx2x.ko": ""
   },
   "scripts": {
